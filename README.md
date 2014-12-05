@@ -1,4 +1,0 @@
-GoHello
-=======
-
-GoLang Hello
